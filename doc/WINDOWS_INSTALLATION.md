@@ -155,7 +155,7 @@ Press `CTRL+ALT+S`, search for `interpreter` and inside the `Python Interpreter`
 
 Wait until PyCharm detects your WSL2 instance and press `NEXT`. Click on `System Interpreter` on the left, select the correct interpreter if it hasn't done so automatically and click `Create`.
 
-![System Interpreter](/image/system_python.png)
+![System Interpreter](image/system_python.png)
 
 Close the project's settings. Once PyCharm prompts you to import modules and allow it.
 
